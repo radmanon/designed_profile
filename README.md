@@ -1,6 +1,6 @@
 <center>
     <div style="display: flex; align-items: center; justify-content: center;">
-      <h1 style="margin-right: 5px;">Hi there, I'm</h1>
+      <h1>Hi there, I'm</h1>
       <img src="https://raw.githubusercontent.com/radmanon/designed_profile/main/Radman.gif" alt="👋 Hi there! I'm radman" title="👋 Hi there! I'm radman"/>
     </div>
   </center>
