@@ -1,6 +1,6 @@
 <center>
     <div style="display: flex; align-items: center; justify-content: center;">
-      <h1 style="margin-right: 10px;">Hi there, I'm</h1>
+      <h1 style="margin-right: 5px;">Hi there, I'm</h1>
       <img src="https://raw.githubusercontent.com/radmanon/designed_profile/main/Radman.gif" alt="👋 Hi there! I'm radman" title="👋 Hi there! I'm radman"/>
     </div>
   </center>
@@ -11,6 +11,7 @@
 <a href="https://www.linkedin.com/in/radman-mohammadi-893487192/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
+<br>
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and I am interested in
