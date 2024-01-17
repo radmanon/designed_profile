@@ -1,22 +1,19 @@
-<img align="center" src="https://raw.githubusercontent.com/radmanon/designed_profile/main/Radman.gif" alt="👋 Hi there! I'm radman" title="👋 Hi there! I'm radman"/>
-<div align="justify">
+<center>
+    <div style="display: flex; align-items: center; justify-content: center;">
+      <h1 style="margin-right: 10px;">Hi there, I'm</h1>
+      <img src="https://raw.githubusercontent.com/radmanon/designed_profile/main/Radman.gif" alt="👋 Hi there! I'm radman" title="👋 Hi there! I'm radman"/>
+    </div>
+  </center>
+
+<h1 align="center">welcome to my GitHub Page</h1>
+<h3 align="center">Computer System Student at BCIT</h3>
 
 <a href="https://www.linkedin.com/in/radman-mohammadi-893487192/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-</div>
-<p></p>
-<p align="justify">
-welcome to my GitHub Page.
-<h1 align="center">Hi there, I'm Radman</h1>
-<h3 align="center">Computer System Student at BCIT</h3>
-</p>
-
 ## My favorite tools and technologies ⚙️
 
-> Tools and technologies that I have worked with and am interested in
+> Tools and technologies that I have worked with and I am interested in
 
 <table>
   <tr>
