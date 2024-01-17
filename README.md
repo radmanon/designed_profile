@@ -11,7 +11,7 @@
 </a>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radmanon&show_icons=true&locale=en" alt="radmanon" /></p>
+<div align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radmanon&show_icons=true&locale=en" alt="radmanon" /></p></div>
 
 
 ## My favorite tools and technologies ⚙️
