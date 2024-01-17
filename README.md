@@ -1,7 +1,7 @@
-<center>
+<div align="center">
       <h1>Hi there, I'm</h1>
       <img src="https://raw.githubusercontent.com/radmanon/designed_profile/main/Radman.gif" alt="👋 Hi there! I'm radman" title="👋 Hi there! I'm radman"/>
-  </center>
+</div>
 
 <h1 align="center">welcome to my GitHub Page</h1>
 <h3 align="center">Computer System Student at BCIT</h3>
