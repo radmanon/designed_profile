@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/radmanon/radman_profile_gif/main/Radman.gif" alt="👋 Hi there! I'm radman" title="👋 Hi there! I'm radman"/>
+<img src="https://raw.githubusercontent.com/radmanon/designed_profile/main/Radman.gif" alt="👋 Hi there! I'm radman" title="👋 Hi there! I'm radman"/>
 <div align="justify">
 
 <a href="">
