@@ -38,6 +38,10 @@
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>AWS
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
