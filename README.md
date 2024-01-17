@@ -10,6 +10,10 @@
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 <br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radmanon&show_icons=true&locale=en" alt="radmanon" /></p>
+
+
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and I am interested in
@@ -94,7 +98,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radmanon&show_icons=true&locale=en&layout=compact" alt="radmanon" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radmanon&show_icons=true&locale=en" alt="radmanon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radmanon&" alt="radmanon" /></p>
