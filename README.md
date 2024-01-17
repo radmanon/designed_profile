@@ -86,14 +86,15 @@
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="Linux" />
       <br>MySQL
     </td>
-
-
-         <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radmanon&show_icons=true&locale=en&layout=compact" alt="radmanon" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radmanon&show_icons=true&locale=en" alt="radmanon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radmanon&" alt="radmanon" /></p>
   </tr>
  <tr>
  </tr>
 </table>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radmanon&show_icons=true&locale=en&layout=compact" alt="radmanon" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radmanon&show_icons=true&locale=en" alt="radmanon" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radmanon&" alt="radmanon" /></p>
