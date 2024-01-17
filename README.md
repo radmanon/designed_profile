@@ -74,6 +74,18 @@
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
+                     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Linux" />
+      <br>Java
+    </td>
+                     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="48" height="48" alt="Linux" />
+      <br>RaspberryPI
+    </td>
+                     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="Linux" />
+      <br>MySQL
+    </td>
   </tr>
  <tr>
  </tr>
